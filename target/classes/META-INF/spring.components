@@ -1,0 +1,5 @@
+#
+#Thu Mar 17 17:44:00 CST 2022
+com.mskj.DebitStrategy=org.springframework.stereotype.Component
+com.mskj.PercentStrategy=org.springframework.stereotype.Component
+com.mskj.StrategyFactory=org.springframework.stereotype.Component
